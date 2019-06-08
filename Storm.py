@@ -11,9 +11,6 @@ from tkinter import Text, Tk
 
 
 
-
-
-
 root=Tk()
 
 root.configure(background='#13366d')
